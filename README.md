@@ -20,12 +20,12 @@
 - Redux
 
 ## Connect with me!
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![github]()][1]
 [![Linkedin](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png)][2]
-[![Facebook](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][3]
-[![Instagram](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][4]
-[![Youtube](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][5]
+[![Facebook](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_1-facebook-256.png)][3]
+[![Youtube](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png)][4]
 
-[1]: http://www.github.com/your_contact_info
+[1]: http://www.github.com/ankitha-anil
 [2]: https://www.linkedin.com/in/ankitha-anil
-[3]: https://www.facebook.com/your_contact_info
+[3]: https://www.facebook.com/ankitha.anil.963
+[4]: https://www.youtube.com/channel/UC_-hr9M__G53-z_-E9fiZEw
