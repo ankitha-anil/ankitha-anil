@@ -22,7 +22,7 @@
 ## Connect with me!
 [![github]][1]
 
-[!<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" width="100" height="100">][2]
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" width="100" height="100">][2]
 [![Facebook](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_1-facebook-256.png)][3]
 [![Youtube](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png)][4]
 
