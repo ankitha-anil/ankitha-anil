@@ -21,7 +21,7 @@
 
 ## Connect with me!
 [![github]()][1]
-[![Linkedin](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png)][2]
+[![Linkedin](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png  =100x100 )][2]
 [![Facebook](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_1-facebook-256.png)][3]
 [![Youtube](https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png)][4]
 
