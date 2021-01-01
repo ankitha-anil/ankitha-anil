@@ -1,4 +1,4 @@
-## Hello World! I'm Ankitha Anil
+## Hello World! I'm Ankitha Anil <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
 
 :woman_student: Computer Science Sophomore at Nanyang Technological University, Singapore.
 
@@ -6,6 +6,11 @@
 
 :open_file_folder: Actively seeking internship roles in Summer 2020
 
+##Coding Stats
+<a href="https://github.com/ankitha-anil">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankitha-anil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitha-anil&layout=compact&langs_count=8&theme=dracula"/>
+</a>
 ## Languages and tools
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="50" height="50"></a>
