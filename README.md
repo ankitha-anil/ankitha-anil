@@ -1,23 +1,27 @@
 ## Hello World! I'm Ankitha Anil
 
-- Computer Science Sophomore at Nanyang Technological University.
-- Interested in Web development
-- Searching for internship roles in Summer 2020
+:woman_student: Computer Science Sophomore at Nanyang Technological University.
+:computer: Interested in Web development and UI/UX
+:open_file_folder: Actively seeking internship roles in Summer 2020
 
 ## Languages and tools
 
-* Python
-* C++
-* C
-* Java
-* Javascript
-* HTML/CSS
-* Android Studio
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="50" height="50"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="50" height="50"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="50" height="50"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="50" height="50"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="50" height="50"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="50" height="50"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="50" height="50"></a>
+<a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="50" height="50"></a>
+
+
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="50" height="50"></a>
 
 * Currently learning: 
-- Node.js
-- React
-- Redux
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="50" height="50"></a>
+<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="50" height="50"></a>
 
 ## Connect with me!
 [<img src="https://i.postimg.cc/0jHckNjm/github.png" width="75" height="75">][1]
