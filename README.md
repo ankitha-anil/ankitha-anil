@@ -1,6 +1,6 @@
 ## Hello World! I'm Ankitha Anil
 
-- Computere Science Sophomore at Nanyang Technological University.
+- Computer Science Sophomore at Nanyang Technological University.
 - Interested in Web development
 - Searching for internship roles in Summer 2020
 
@@ -21,9 +21,9 @@
 
 ## Connect with me!
 [<img src="https://i.postimg.cc/0jHckNjm/github.png" width="100" height="100">][1]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" width="100" height="100">][2]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_1-facebook-256.png" width="100" height="100">][3]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png" width="100" height="100">][4]
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" width="75" height="75">][2]
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_1-facebook-256.png" width="75" height="75">][3]
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png" width="75" height="75">][4]
 
 
 [1]: http://www.github.com/ankitha-anil
