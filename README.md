@@ -4,7 +4,7 @@
 
 :computer: Interested in Web development and UI/UX
 
-:open_file_folder: Actively seeking internship roles in Summer 2020
+:open_file_folder: Actively seeking internship roles in Summer 2021
 
 ## Coding Stats
 
@@ -39,9 +39,11 @@
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" width="70" height="70">][2]
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_1-facebook-256.png" width="70" height="70">][3]
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png" width="70" height="70">][4]
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-512.png" width="70" height="70">][5]
 
 
 [1]: http://www.github.com/ankitha-anil
 [2]: https://www.linkedin.com/in/ankitha-anil
 [3]: https://www.facebook.com/ankitha.anil.963
 [4]: https://www.youtube.com/channel/UC_-hr9M__G53-z_-E9fiZEw
+[5]: https://www.instagram.com/ankiithaaaaaa/
