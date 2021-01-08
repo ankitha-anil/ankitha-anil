@@ -25,6 +25,7 @@
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="50" height="50"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="50" height="50"></a>
 <a href="https://developer.android.com/studio/intro" title="AndroidStudio"><img src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Android_Studio_2019.png/revision/latest/scale-to-width-down/340?cb=20200605162922" alt="AndroidStudio" width="55" height="55"></a>
+<a href="https://code.visualstudio.com" title="VisualStudioCode"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VisualStudioCode" width="50" height="50"></a>
 
 * Currently learning: 
 
