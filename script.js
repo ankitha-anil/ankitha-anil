@@ -1,16 +1,10 @@
 /* Set the width of the side navigation to 250px */
 function openNav() {
-    document.getElementById("nav").style.width = "250px";
-    document.getElementById("main").style.marginLeft = "250px";
-    document.getElementById("navicon").style.visibility="hidden";
-    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+    document.getElementById("nav").style.width = "155px";
 }
             
 function closeNav() {
     document.getElementById("nav").style.width = "0";
-    document.getElementById("main").style.marginLeft = "0";
-    document.getElementById("closebtn").style.visibility="hidden";
-    document.body.style.backgroundColor = "white";
 }
 
 function sleep(ms) {
