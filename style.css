@@ -10,18 +10,19 @@ nav{
     background-color: #4C5454;
     height: 100%;
     top: 0;
-    right: 0;
-    z-index: 1;
+    left: 0;
+    z-index: 10;
     overflow: hidden;
     display: flex;
+    position: fixed;
     flex-direction: column;
     transition: 0.5s;
-    width: 275px;
+    width: 250px;
+    align-items: center;
 }
 .navlist{
     padding: 20px;
     padding-top: 75px;
-    justify-self: center;
 }
 
 nav a {
@@ -49,6 +50,7 @@ nav img {
     max-width: 170px;
     max-height: 170px;
     padding: 20px;
+    padding-top: 80px;
     justify-self: start;
 }
 #navicon, #closebtn{
@@ -57,33 +59,80 @@ nav img {
 
 main {
     width: 100%;
+    margin-left: 240px;
 }
 
 .intro {
     font-family: 'Courier New', Courier, monospace;
     font-size: 36px;
-    font-weight: 700;
+    font-weight: 800;
     text-align: center;
     line-break: 1em;
 }
 .gradient {
     background-image: -webkit-linear-gradient(left, #6DD3CE, #7A94F1);
+  }
+
+.text{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 36px;
   }
+.bar{
+    width: 100%;
+    height: 25px;
+    padding: 0;
+}
 
 .about{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url("media/background/about-bg.jpg") ;
+    background-position:left;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.about h1{
+    font-size: 24px;
+    padding: 35px 0 0 50px;
+}
 
+.about .aboutinside{
+    font-size: 14px;
+    padding-left: 75px;
+    display: flex;
+}
+.about .name{
+    font-size: 18px;
+    font-weight: 700;
+}
+.about .aboutlist{
+    padding-left: 40px;
+}
+.aboutlist p{
+    display: flex;
+}
+
+.about #status{
+    font-weight: 700;
+    padding-top: 0px;
+}
+#profile {
+    width: 300px;
+    height: 300px;
+    flex-basis: 200px;
+    order: 2;
+    padding: 30px;
 }
 @media only screen and (min-width: 350px) and (max-width: 800px) {
     nav {
         width: 0px;
+        height: 100%;
+        top: 0;
         align-items: center;
-        overflow-x: hidden;
+        overflow: hidden;
         position: fixed;
         z-index: 1;
-        top: 0;
         left: 0;
     }
     nav img {
@@ -115,15 +164,31 @@ main {
         font-size: 36px;
         align-self: flex-end;
     }
+    main{
+        margin-left: 0;
+    }
+    .aboutinside{
+        flex-direction: column;
+        padding: 25px;
+        padding-top: 0px;
+    }
+    #profile{
+        order: 0;
+        padding: 0;
+    }
+    .svg-padding{
+        padding-right: 15px;
+    }
   }
   @media only screen and (max-width: 350px) {
     nav {
         width: 0px;
+        height: 100%;
+        top: 0;
         align-items: center;
         overflow-x: hidden;
         position: fixed;
         z-index: 1;
-        top: 0;
         left: 0;
     }
     nav img {
@@ -154,5 +219,20 @@ main {
         font-size: 36px;
         align-self: flex-end;
     }
+    main{
+        margin-left: 0;
+    }
+    .aboutinside{
+        flex-direction: column;
+        padding: 0px;
+        padding-top: 0px;
+    }
+    #profile{
+        order: 0;
+        padding: 0;
+        width: 100px;
+        height: 100px;
+    }
+
   }
  

@@ -1,6 +1,7 @@
 /* Set the width of the side navigation to 250px */
 function openNav() {
     document.getElementById("nav").style.width = "155px";
+    document.getElementById("nav").style.position = "fixed";
 }
             
 function closeNav() {
