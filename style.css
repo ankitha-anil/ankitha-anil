@@ -223,16 +223,17 @@ main {
         margin-left: 0;
     }
     .aboutinside{
-        flex-direction: column;
         padding: 0px;
         padding-top: 0px;
     }
     #profile{
         order: 0;
         padding: 0;
-        width: 100px;
-        height: 100px;
+        width: 200px;
+        height: 200px;
     }
-
+    .svg-padding{
+        padding-right: 25px;
+    }
   }
  
