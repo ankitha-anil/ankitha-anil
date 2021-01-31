@@ -8,10 +8,8 @@
         <meta name="HandheldFriendly" content="true">
         <link href="style.css" type="text/css" rel="stylesheet" />
         <script src="script.js" type="text/javascript"></script>
-
         <link rel = "icon" type = "image/png" href = "media/logo.png"> 
         <link rel = "apple-touch-icon" type = "image/png" href = "media/logo.png"/> 
-
         <link rel="preconnect" href="https://fonts.gstatic.com"> 
         <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">    </head>
     </head>
@@ -29,65 +27,136 @@
                 <a href="#contact">Contact</a>
             </div>
         </nav>
-       
         <main> 
+
             <span id="navicon" onclick="openNav()" >&#9776;</span>
             <div class="intro">
-                <p>Hi! I am <span class="gradient text">Ankitha</span><br>
-                I love <span id="introText" class="gradient text">Design</span></p>
+                <p>Hi! I am <span class="gradient text">Ankitha</span><br>I love <span id="introText" class="gradient text">Design</span></p>
             </div>
             
-            <div class="about">
+            <div id="about">
                 <h1>About Me</h1>
                 <div class="aboutinside">
-                <img id="profile" src="media/profile.png"/>
-                <div class="description">
-                    <p>I’m Ankitha Anil,  a student pursuing Bachelor’s in Computer Science. 
-                    <br>Creativity and innovation is my drive to become a better developer and designer day by day.
-                    <br>I am particularly interested in Web development and UI/UX design. </p>     
-                    <p class="gradient text name">Ankitha:</p>
-                    <div class="aboutlist">
-                        <p><svg class="svg-padding" width="  40" height="  40"
-                            xmlns="http://www.w3.org/100/svg">
-                            <image href="media/about /school.svg"/>
-                            </svg>Sophomore at Nanyang Technological University, Singapore</p>
-                       <p><svg width="  40" height="  40"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <image href="media/about /music.svg" />
-                        </svg>Play the keyboard and guitar</p>
-                       <p><svg width="  40" height="  40"
-                       xmlns="http://www.w3.org/2000/svg">
-                       <image href="media/about /sing.svg" />
-                       </svg>Singer and Dancer</p>
-                       <p><svg width="  40" height="  40"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <image href="media/about /youtube.svg" />
-                        </svg>Aspiring Youtuber</p>
-                       <p><svg class="svg-padding" width="  40" height="  40"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <image href="media/about /language.svg" />
-                        </svg>Distinguished in 3 languages - Novice in 3 languages</p>
-                    </div>
-                    <div id="status">
-                        <p>I am currently seeking internship positions in 2021 for UI/UX or front-end developer roles.</p>
+                    <img id="profile" src="media/profile.png"/>
+                    <div class="description">
+                        <p>I’m Ankitha Anil,  a student pursuing Bachelor’s in Computer Science. 
+                        <br>Creativity and innovation is my drive to become a better developer and designer day by day.
+                        <br>I am particularly interested in Web development and UI/UX design. </p>     
+                        <p class="gradient text">Ankitha:</p>
+                        <div class="aboutlist">
+                            <p><image src="media/about/school.png"/>Sophomore at Nanyang Technological University, Singapore</p>
+                            <p><image src="media/about/music.png"/>Play the keyboard and guitar</p>
+                            <p> <image src="media/about/sing.png"/>Singer and Dancer</p>
+                            <p><image src="media/about/youtube.png"/>Aspiring Youtuber</p>
+                            <p><image src="media/about/language.png"/>Distinguished in 3 languages - Novice in 3 languages</p>
+                        </div>
+                        <div id="status">
+                            <p>I am currently seeking internship positions in 2021 for UI/UX or front-end developer roles.</p>
+                        </div>
                     </div>
                 </div>
-            </div>
                 <div class="bar gradient">
-                </div>
-        </div>
-        
-           
-            <div class="skills">
+                </div> 
+            </div>
+
+            <div id="skills">
                 <h1>Skills</h1>
+                <div class="skills-there">
+                    <div class="skills-container">
+                        <div class="skills-tab">
+                            <p>Languages  
+                            <span>&nbsp;&nbsp;|&nbsp;&nbsp;Tools&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+                            <span>Currently Learning</span></p>
+                        </div>
+                        <div class="skill-types">
+                            <div class="language">
+                                <image src="media/skill/html5.png" />
+                                <image src="media/skill/c.png" />
+                                <image src="media/skill/python.png" />
+                                <image src="media/skill/javascript.png" />
+                                <image src="media/skill/java.png" />
+                                <image src="media/skill/cplusplus.png" />
+                                <image src="media/skill/css3.png" />
+                            </div>
+                            <div class="tools">
+                                <image src="media/skill/git.png" />
+                                <image src="media/skill/bootstrap.png" />
+                                <image src="media/skill/android.png" />
+                                <image src="media/skill/visualstudio.png" />
+                            </div>
+                            <div class="learning">
+                                <image src="media/skill/nodejs.png" />
+                                <image src="media/skill/react.png" />
+                                <image src="media/skill/redux.png" />
+                                <image src="media/skill/postgresql.png" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="projects">
+            
+            <div id="projects">
                 <h1>Projects</h1>
+                <div class="project-info">
+                    <a href="https://github.com/ankitha-anil/myStars" target="_blank" class="project-card odd">
+                        <img src="media/project/odd.png"/>
+                        <div class="project-description">
+                            <p class="project-heading">My Stars Application</p>
+                            <p>Object Oriented programming project using Java</p>
+                        </div>
+                    </a>
+                    <a href="https://github.com/ankitha-anil/ntu-database-sharkee" target="_blank" class="project-card even">
+                        <img src="media/project/even.png"/>
+                        <div class="project-description">
+                            <p class="project-heading">Database Project</p>
+                            <p>E-commerce database, Sharkee, creation and related queries using MySQL</p>
+                        </div>
+                    </a>
+                    <a href="https://github.com/ankitha-anil/cs50w-project1" target="_blank" class="project-card odd">
+                        <img src="media/project/odd.png"/>
+                        <div class="project-description">
+                            <p class="project-heading">BooksHere</p>
+                            <p>Web application made using flask and html/css to browse and review books</p>
+                        </div>
+                    </a>
+                    <a href="https://github.com/ankitha-anil/ntu-aviationaccidents-dsai" target="_blank" class="project-card even">
+                        <img src="media/project/even.png"/>
+                        <div class="project-description">
+                            <p class="project-heading">Data Science </p>
+                            <p>Worked on aviation accident dataset and applied classification machine learning method</p>
+                        </div>
+                    </a>
+                    <a href="https://github.com/ankitha-anil/ntu-canteensystem-miniproject" target="_blank" class="project-card odd">
+                        <img src="media/project/odd.png"/>
+                        <div class="project-description">
+                            <p class="project-heading">Real time Canteen System</p>
+                            <p>Real time canteen information system coded using Python</p>
+                        </div>
+                    </a>
+                    <a href="https://github.com/ankitha-anil/Covid19-Tracker" target="_blank" class="project-card even">
+                        <img src="media/project/even.png"/>
+                        <div class="project-description">
+                            <p class="project-heading">Covid-19 Tracker</p>
+                            <p>Android app using Android Studio to track the number of cases in India and provide essential statistics.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="bar gradient">
+                </div> 
             </div>
-            <div class="contact">
+
+            <div id="contact">
                 <h1>Contact</h1>
+                <img src="media/contact/Picture 1.png" />
+                <div class="contact-icon">
+                    <a href="mailto:ankitha.anil@gmail.com" target="_blank"><img src="media/contact/email.png" onmouseover="this.src='media/contact/email-2.png'" onmouseout="this.src='media/contact/email.png'" /></a>
+                    <a href="https://www.linkedin.com/in/ankitha-anil/" target="_blank"><img src="media/contact/linkedin.png" onmouseover="this.src='media/contact/linkedin-2.png'" onmouseout="this.src='media/contact/linkedin.png'" /></a>
+                    <a href="https://github.com/ankitha-anil" target="_blank"><img src="media/contact/github.png" onmouseover="this.src='media/contact/github-2.png'" onmouseout="this.src='media/contact/github.png'" /></a>
+                    <a href="https://www.youtube.com/channel/UC_-hr9M__G53-z_-E9fiZEw" target="_blank"><img src="media/contact/youtube.png" onmouseover="this.src='media/contact/youtube-2.png'" onmouseout="this.src='media/contact/youtube.png'" /></a>
+                    <a href="https://www.facebook.com/ankitha.anil.963" target="_blank"><img src="media/contact/facebook.png" onmouseover="this.src='media/contact/facebook-2.png'" onmouseout="this.src='media/contact/facebook.png'" /></a>
+                </div>
             </div>
+
         </main>
-        
     </body>
 </html>
