@@ -1,10 +1,14 @@
 html{
     height: 100%;
+    scroll-behavior: smooth;
+    overscroll-behavior: none;
 }
 body{
     height: 100%;
     display: flex;
     font-family: Montserrat;
+    position: relative;
+    overscroll-behavior: none;
 }
 nav{
     background-color: #4C5454;
@@ -22,7 +26,7 @@ nav{
 }
 .navlist{
     padding: 20px;
-    padding-top: 75px;
+    padding-top: 50px;
 }
 
 nav a {
@@ -115,6 +119,7 @@ main {
     font-weight: 700;
     padding-top: 0px;
 }
+
 #profile {
     width: 250px;
     height: 250px;
@@ -122,6 +127,7 @@ main {
     order: 2;
     padding: 30px;
 }
+
 #skills{
     background-image: url("media/background/skill-bg.png");
     background-position:left;
@@ -135,47 +141,97 @@ main {
     font-size: 24px;
     padding: 35px 0 0 50px;
 }
-#skills p{
+
+
+#skills a, span{
     font-size: 18px;
     font-weight: 600;
     color:#FFFFFF;
+    text-decoration: none;
 }
+
+#language-text{
+    color:#6DD3CE;
+}
+
+#skills a:hover{
+    color:#6DD3CE;
+    transition: 0.3s;
+}
+
 .skills-there{
     display: flex;
     padding: 25px;
+    align-content: center;
+    justify-content: center;
+    height: 500px;
 }
 .skills-container{
    padding: 15px;
+   margin: 25px;
    background-color: rgba(76,84,84,0.95);
    border-radius: 35px;
    align-items: center;
-   justify-content: center;
-   width: fit-content;
+   justify-items: center;
+   min-width: 700px;
    display: flex;
    flex-direction: column;
 }
+
 .skills-tab{
     background-color: #a4a7a6;
     border-radius: 25px;
     padding: 0.1px 25px 0.1px 25px;
     width: fit-content;
-    height: fit-content;
+    height: 70px;
     order: 0;
-}
-.skills-tab p{
     text-align: center;
+    display:flex;
 }
-.language::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
-  }
+
+.skills-tab a, span{
+    justify-self: center;
+    align-self: center;
+}
+
 #skills img{
     margin: 30px;
 }
-.language {
-    visibility: visible;
+
+#skill-types {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+#languages{
+    visibility:visible;
+}
+#learning{
+    visibility:visible;
+}
+#tools{
+    visibility:visible;
 }
 
+.slider{
+    overflow-y: auto;
+    flex-wrap: wrap;
+}
+.skills-there > a:active {
+    top: 1000px;
+  }
+
+  #tools::before { 
+    display: block; 
+    content: " "; 
+    margin-top: -500px; 
+    height: 500px; 
+    visibility: hidden; 
+    pointer-events: none;
+  }
+
+  
 #projects h1{
     font-size: 24px;
     padding: 35px 0 0 50px;
@@ -200,6 +256,7 @@ main {
     margin: 10px;
     flex-basis: 22%;
     display: flex;
+    position: relative;
     flex-direction: column;
     text-decoration: none;
 }
@@ -236,15 +293,22 @@ main {
 }
 .contact-icon{
     width: 100%;
-    height: 90px;
+    height: 80px;
+    margin-bottom: 200px;
     background-color: #4C5454;
-    padding-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
 }
 .contact-icon img{
-    width: 70px;
-    height: 70px;
-    padding: 10px;
+    width: 50px;
+    height: 50px;
+    padding: 15px;
     fill: #FFFFFF;
+}
+
+#contact{
+    margin-bottom: 100px;
 }
 @media only screen and (min-width: 350px) and (max-width: 800px) {
     nav {
