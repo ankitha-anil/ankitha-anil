@@ -124,6 +124,7 @@ main {
     padding-right: 5px;
 }
 
+
 #profile {
     width: 250px;
     height: 250px;
@@ -170,6 +171,9 @@ main {
     align-content: center;
     justify-content: center;
     height: 500px;
+    flex-basis: 22%;
+    display: flex;
+    position: relative;
 }
 .skills-container{
    padding: 15px;
@@ -178,7 +182,7 @@ main {
    border-radius: 35px;
    align-items: center;
    justify-items: center;
-   min-width: 700px;
+   min-width: 80%;
    display: flex;
    flex-direction: column;
 }
@@ -188,7 +192,7 @@ main {
     border-radius: 25px;
     padding: 0.1px 25px 0.1px 25px;
     width: fit-content;
-    height: 70px;
+    height: 5em;
     order: 0;
     text-align: center;
     display:flex;
@@ -329,7 +333,16 @@ main {
 }
 @media only screen and (min-width: 800px) and (max-width: 1292px) {
     #contact-img{
-display: none;
+        display: none;
+    }
+    .contact-icon::before{
+        content: "";
+        padding-left: 0px;
+    }
+    .contact-icon{
+        display: flex;
+        justify-content: center;
+        align-content: center;
     }
 }
 
@@ -390,14 +403,7 @@ display: none;
     }
 
     .skills-tab{
-        background-color: #a4a7a6;
-        border-radius: 25px;
-        padding: 0.1px 25px 0.1px 25px;
-        width: fit-content;
-        height: 100px;
-        order: 0;
-        text-align: center;
-        display:flex;
+        height: 7em;
     }
 
     #contact-img{
