@@ -5,6 +5,7 @@
 :computer: Interested in Web development and UI/UX
 
 :open_file_folder: Actively seeking internship roles in Summer 2021
+:globe_with_meridians: https://ankitha-anil.github.io/ankitha-anil/
 
 ## Coding Stats
 
