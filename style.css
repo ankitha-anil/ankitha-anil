@@ -213,14 +213,17 @@ main {
     align-items: center;
     flex-direction: column;
 }
-#languages{
+#language{
+    visibility:visible;
+}
+#language-2{
     visibility:visible;
 }
 #learning{
-    visibility:visible;
+    visibility:hidden;
 }
 #tools{
-    visibility:visible;
+    visibility:hidden;
 }
 
 .slider{
