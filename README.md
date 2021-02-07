@@ -38,15 +38,17 @@
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="50" height="50"></a>
 
 ## Connect with me!
-[<img src="https://i.postimg.cc/0jHckNjm/github.png" width="70" height="70">][1]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" width="70" height="70">][2]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_1-facebook-256.png" width="70" height="70">][3]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png" width="70" height="70">][4]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-512.png" width="70" height="70">][5]
+[<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="70" height="70">][1]
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_behance-512.png" width="70" height="70">][2]
+[<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="70" height="70">][3]
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_facebook-512.png" width="70" height="70">][4]
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/157/social-media_youtube-512.png" width="70" height="70">][5]
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-256.png" width="70" height="70">][6]
 
 
 [1]: http://www.github.com/ankitha-anil
-[2]: https://www.linkedin.com/in/ankitha-anil
-[3]: https://www.facebook.com/ankitha.anil.963
-[4]: https://www.youtube.com/channel/UC_-hr9M__G53-z_-E9fiZEw
-[5]: https://www.instagram.com/ankiithaaaaaa/
+[2]: https://www.behance.net/ankitha-anil
+[3]: https://www.linkedin.com/in/ankitha-anil
+[4]: https://www.facebook.com/ankitha.anil.963
+[5]: https://www.youtube.com/channel/UC_-hr9M__G53-z_-E9fiZEw
+[6]: https://www.instagram.com/ankiithaaaaaa/
