@@ -354,7 +354,7 @@ main {
     min-width: 500px;
     min-height: auto;
     right: 0;
-    top: 1750px;
+    top: 2500px;
 }
 @media only screen and (min-width: 800px) and (max-width: 1292px) {
     #contact-img{
