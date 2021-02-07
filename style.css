@@ -170,7 +170,7 @@ main {
     padding: 25px;
     align-content: center;
     justify-content: center;
-    height: 500px;
+    height: fit-content;
     flex-basis: 22%;
     display: flex;
     position: relative;
@@ -241,12 +241,20 @@ main {
   }
 
   
-#projects h1{
+#projects h1, #design-project h1{
     font-size: 24px;
     padding: 35px 0 0 50px;
 }
 #projects{
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("media/background/project-bg.jpg");
+    background-position:left;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+}
+#design-project{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("media/background/design-bg.jpg");
     background-position:left;
     background-blend-mode: multiply;
     background-size: cover;
@@ -268,10 +276,11 @@ main {
     position: relative;
     flex-direction: column;
     text-decoration: none;
+    transition: background-image 1s ease-in-out;
 }
 
 .project-card:hover{
-    background-color: #6DD3CE;
+    background-color: #6dd3ce;
     transition: 0.4s;
 }
 
@@ -298,6 +307,14 @@ main {
     font-size: 14px;
 }
 
+#design-project p{
+    color: #FFFFFF;
+}
+#design-project .project-card:hover{
+    
+    background-image: -webkit-linear-gradient(right, #6DD3CE, #7A94F1);
+}
+
 #contact h1{
     font-size: 24px;
     padding: 35px 0 0 50px;
@@ -319,6 +336,11 @@ main {
     height: auto;
     padding: 15px;
     fill: #FFFFFF;
+}
+#behance img{
+    width: 60px;
+    height: auto;
+    margin-top: 0;
 }
 
 #contact{
@@ -414,6 +436,10 @@ main {
         height: auto;
         padding: 10px;
         fill: #FFFFFF;
+    }
+    #behance img{
+        width: 40px;
+        height: auto;
     }
     
     .contact-icon::before{

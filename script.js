@@ -49,6 +49,7 @@ function sleep(ms) {
     document.getElementsByClassName("skills-tab")[0].style.height="130px";
  }
 
+
 async function changeText(){
     const words=["Design","Development","Art","Travel"];
     let i=1;
