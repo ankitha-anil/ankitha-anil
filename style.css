@@ -170,7 +170,7 @@ main {
     padding: 25px;
     align-content: center;
     justify-content: center;
-    height: fit-content;
+    height: 500px;
     flex-basis: 22%;
     display: flex;
     position: relative;
@@ -314,7 +314,6 @@ main {
     color: #FFFFFF;
 }
 #design-project .project-card:hover{
-    
     background-image: -webkit-linear-gradient(right, #6DD3CE, #7A94F1);
 }
 
@@ -354,7 +353,7 @@ main {
     min-width: 500px;
     min-height: auto;
     right: 0;
-    top: 2500px;
+    top: 2100px;
 }
 @media only screen and (min-width: 800px) and (max-width: 1292px) {
     #contact-img{
