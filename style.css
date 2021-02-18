@@ -279,7 +279,6 @@ main {
     position: relative;
     flex-direction: column;
     text-decoration: none;
-    transition: background-image 1s ease-in-out;
 }
 
 .project-card:hover{
