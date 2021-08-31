@@ -1,10 +1,10 @@
 ## Hello World! I'm Ankitha Anil <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
 
-:woman_student: Computer Science Sophomore at Nanyang Technological University, Singapore.
+:woman_student: Computer Science Penultimate student at Nanyang Technological University, Singapore.
 
-:computer: Interested in App development and UI/UX
+:computer: Interested in Web Development and SWE
 
-:open_file_folder: Actively seeking internship roles in Summer 2021
+:open_file_folder: Actively seeking internship roles in Spring 2022
 
 :globe_with_meridians: https://ankitha-anil.github.io/ankitha-anil/
 
