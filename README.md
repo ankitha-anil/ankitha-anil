@@ -2,7 +2,7 @@
 
 :woman_student: Computer Science Penultimate student at Nanyang Technological University, Singapore.
 
-:computer: Interested in Web Development and SWE
+:computer: Interested in Mobile Application Development and SWE
 
 :open_file_folder: Actively seeking internship roles in Spring 2022
 
