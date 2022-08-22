@@ -225,7 +225,7 @@ main {
 
 #profile {
     width: 250px;
-    height: 250px;
+    height: 225px;
     flex-basis: 200px;
     order: 2;
     padding: 30px;
