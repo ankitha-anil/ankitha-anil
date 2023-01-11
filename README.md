@@ -2,9 +2,9 @@
 
 :woman_student: Computer Science Senior at Nanyang Technological University, Singapore.
 
-:computer: Interested in Product Management and SWE
+:computer: Interested in and SWE and Product Management
 
-:open_file_folder: Actively seeking internship roles in January 2023
+:open_file_folder: Actively seeking full-time roles for May 2023
 
 :globe_with_meridians: https://ankitha-anil.github.io/ankitha-anil/
 
