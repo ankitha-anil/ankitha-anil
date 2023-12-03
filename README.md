@@ -4,7 +4,6 @@
 
 :computer: Interested in and SWE and Product Management
 
-:open_file_folder: Actively seeking full-time roles for May 2023
 
 :globe_with_meridians: https://ankitha-anil.github.io/ankitha-anil/
 
